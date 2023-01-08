@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425313626370",
+    "project_id": "adaptive-image",
+    "storage_bucket": "adaptive-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425313626370:android:cbe420d1466ea7bde23a1b",
+        "android_client_info": {
+          "package_name": "com.example.adaptive_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425313626370-dpmi2akkp4iliir63khhubq69f92qehb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxz5aG-rBbyIkG_332jQouL2tdcdFD3ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425313626370-dpmi2akkp4iliir63khhubq69f92qehb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
